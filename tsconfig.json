@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "paths": {
+      "~/*": ["src/*"]
+    },
+    "sourceMap": true,
+    "pretty": true,
+    "lib": ["es2019"],
+    "strict": true,
+    "strictNullChecks": true,
+    "noImplicitReturns": true,
+    "allowUnusedLabels": false,
+    "allowUnreachableCode": false
+  },
+  "include": ["./src/**/*"]
+}
