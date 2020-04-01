@@ -1,0 +1,18 @@
+{
+  "name": "daily-leetcode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Marko Vujanic",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.9.0",
+    "@types/jest": "^25.1.4",
+    "jest": "^25.2.4"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.9.0"
+  }
+}
