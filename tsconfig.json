@@ -6,11 +6,12 @@
     },
     "sourceMap": true,
     "pretty": true,
-    "lib": ["es2019"],
+    "lib": ["es2019", "DOM"],
     "strict": true,
     "strictNullChecks": true,
     "noImplicitReturns": true,
     "allowUnusedLabels": false,
+    "downlevelIteration": true,
     "allowUnreachableCode": false
   },
   "include": ["./src/**/*"]
